@@ -1,0 +1,29 @@
+{
+
+    "Server": {
+        "Id": "SUNUCU ID"
+    },
+
+    "Roles": {
+        "Jail_Role": "CEZALI ROL ID",
+        "Booster_Role": "BOOSTER ROL ID"
+    },
+
+    "Channels": {
+        "Channel_Log": "KANAL KORUMA LOG",
+        "Role_Log": "ROL KORUMA LOG",
+        "Other_Log": "SUNUCU KORUMA LOG",
+        "Right_Click": "SAĞ TIK KORUMA LOG"    
+    },
+
+    "Emojis": {
+        "Check": "TİK EMOJİ ID",
+        "Delete": "ÇARPI EMOJİ ID"
+    },
+
+    "Embed": {
+        "Color": "RANDOM",
+        "Footer": "Safe Code ❤ Salvatore",
+        "Timeout": 10000
+    }
+}
